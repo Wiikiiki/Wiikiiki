@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Wiki
-- 💖 I'm interested in 🔤 🏹 📚 🎬 🎶
+- 💖 I'm interested in 🔤 🧗 🏹 📚 🎬 
 - 👩‍💻 I'm determined to be a front-end developer and more
 - 🌱 I’m currently learning JavaScript & TypeScript
 - 💼 I’m looking for a satisfactory job
